@@ -90,7 +90,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t mt-8 pt-8 text-center text-sm text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Shopwise — Created with 💙 by Rajarajan</p>
+          <p>&copy; {new Date().getFullYear()} ShopEase — Created with 💙 by Rajarajan</p>
         </div>
       </div>
     </footer>
